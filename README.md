@@ -47,6 +47,16 @@ python resource_tracker.py --export --output my_data.csv
 ```
 Dumps everything to CSV for plotting in your favorite tool.
 
+### Verbose logging
+```bash
+python resource_tracker.py --verbose --snapshot
+```
+Enables detailed logging output to both console and file.
+
+## Logging
+
+The tracker logs all operations to `resource_tracker.log` in the same directory. Use `--verbose` to see debug-level messages in the console.
+
 ## Database
 
 Data goes into `resource_data.db` in the same directory. Two tables:

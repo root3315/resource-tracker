@@ -1,0 +1,9 @@
+2026-03-11 00:03:09 - __main__ - INFO - Resource Tracker started
+2026-03-11 00:03:09 - __main__ - INFO - Database initialized successfully
+2026-03-11 00:03:09 - __main__ - INFO - Snapshot saved: CPU=0.0%, Mem=36.3%
+2026-03-11 00:03:09 - __main__ - INFO - Single snapshot taken and saved
+2026-03-11 00:03:16 - __main__ - INFO - Resource Tracker started
+2026-03-11 00:03:16 - __main__ - DEBUG - Initializing database at /tmp/resource-tracker_1773187239/resource_data.db
+2026-03-11 00:03:16 - __main__ - INFO - Database initialized successfully
+2026-03-11 00:03:16 - __main__ - DEBUG - Querying history, limit=20
+2026-03-11 00:03:16 - __main__ - DEBUG - Found 1 historical records
